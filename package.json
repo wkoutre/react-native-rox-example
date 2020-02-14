@@ -14,7 +14,7 @@
     "@react-native-community/async-storage": "^1.7.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "rox-react-native": "4.8.2"
+    "rox-react-native": "4.8.9"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

@@ -5745,10 +5745,10 @@ rimraf@~2.2.6:
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
 
-rox-react-native@4.8.2:
-  version "4.8.2"
-  resolved "https://registry.yarnpkg.com/rox-react-native/-/rox-react-native-4.8.2.tgz#648f28d1cde1054b474a4c32b81bd6ea0c0a92fb"
-  integrity sha512-MMKW5BvUncCUa7mUwS0l5OBwNN6EtKtKD9IybRB837cmlZPz4eP5y5wTorR/7gF4cs6QcUhbzCiGL/iybCrZ9A==
+rox-react-native@4.8.9:
+  version "4.8.9"
+  resolved "https://registry.yarnpkg.com/rox-react-native/-/rox-react-native-4.8.9.tgz#babafe89378ed3ff53c32de1c2f0487bb8a447d6"
+  integrity sha512-Prj7XQ2YXs4OJUDSJvwA49belYrnEHXSR3BY+wnUjHgT/SXEEHhBrwXRKRYniLToWp6vBvZXwNOWa9XQPIJLvg==
 
 rsvp@^4.8.4:
   version "4.8.5"

@@ -2,6 +2,8 @@
 
 This serves to replicate the crash presented by the `rox-react-native@>=4.8.2` library for, at the very, iOS release builds.
 
+NOTE: This has `rox-react-native@4.8.9` installed (the latest version).
+
 ## Replication
 
 The `Run` command in iOS is set towards the `Release` Build Configuration.
